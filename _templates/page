@@ -1,0 +1,23 @@
+---
+layout: page
+title: {{ title }}
+# uncomment to include in the navbar
+#group: navigation
+# Relative ordering of this page within its group
+order:
+#script: /javascripts/mypage.js
+#scripts:
+#  - /javascripts/one.js
+#  - /javascripts/two.js
+---
+
+<!-- Uncomment for Table of Contents -->
+{% comment %}
+{% include toc.md %}
+{% endcomment %}
+
+
+# Title
+{:.ui.dividing.header.no_toc}
+
+## First Header

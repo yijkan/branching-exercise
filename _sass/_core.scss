@@ -1,0 +1,56 @@
+.main {
+  margin-left: 0!important;
+  margin-right: 0!important;
+}
+
+// pre/code formatting
+pre, code {
+  font-family: Menlo, Monaco, Consolas, "Courier New", monospace;
+  font-size: 14px;
+}
+
+code {
+  padding: 2px 4px;
+  color: #d14;
+  white-space: nowrap;
+  background-color: #f7f7f9;
+  border: 1px solid #e1e1e8;
+  border-radius :3px;
+}
+
+pre {
+  display: block;
+  padding: 9.5px;
+  margin: 0 0 10px;
+  font-size: 13px;
+  line-height: 20px;
+  background-color: #f5f5f5;
+  border: 1px solid #ccc;
+  border: 1px solid rgba(0, 0, 0, 0.15);
+  border-radius: 4px;
+}
+
+pre code {
+  padding: 0;
+  color: inherit;
+  white-space: pre;
+  background-color: transparent;
+  border: 0;
+}
+
+li > p {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.content {
+  h1, h2, h3, h4, h5, h6 {
+    // hack to get ID anchor links to position correctly
+    margin-top: -50px;
+    padding-top: 50px;
+  }
+  li {
+    margin-top: 5px;
+    margin-bottom: 5px;
+  }
+}
