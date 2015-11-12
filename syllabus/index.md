@@ -38,7 +38,7 @@ the QuickCheck, and they should only take a few minutes to finish.
 
 ## Lecture
 
-The first 15 minutes of lecture will be a discussion of the reading or a demo, 
+The first 15 minutes of lecture will be a discussion of the reading or a demo,
 a TA will go over the content of the reading, give some sort of demo, and answer
 questions.
 
@@ -85,19 +85,8 @@ but covering material from the entire semester.
 
 The grading breakdown will be as follows:
 
-- 70% PuzzlePacks
-- 10% QuickChecks
-- 10% Midterm Exam
-- 10% Final Exam
-
-Alternatively, to encourage people to attend the extratations, anyone who
-attends at least 3 extratations will be able to either
-
-- receive credit on the final exam equal to what was received on the midterm
-  (thus not having to take the final), or
-- receive credit for both the midterm and final exam equal to the max of what
-  was received on the midterm and final exam.
-
+- Everyone learns something, has fun, and gets a good grade.
+- Extra credit will be assigned for dank memes.
 
 ## Collaboration Policy
 
